@@ -23,5 +23,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErizoMA&layout=compact)](https://github.com/ErizoMA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErizoMA&layout=compact)](https://github.com/ErizoMA/github-readme-stats)                                                                                                                                                                                                                                                                                                     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErizoMA&count_private=trues&show_icons=true&hide=contribs,prs)
 
