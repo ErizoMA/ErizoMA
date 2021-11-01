@@ -6,7 +6,7 @@
 
 ### 🛠️ Skills 
 - **Languages**:    Javascript, Ruby, Python
-- **DevOps**:   Linux, Git, Docker, REST API, CI
+- **DevOps**:   Linux, Git, Docker, REST API
 
 <!--
 ### 🌱 My latest projects
