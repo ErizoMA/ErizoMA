@@ -1,6 +1,6 @@
 # Hello, I'm Erick Marcelo Aurazo 👋
 
-- 🔭 Bachelor's degree in **Electronic Engeneering** at "National University of Engineering". 
+- 🔭 Bachelor's degree in **Electronic Engineering** at "National University of Engineering". 
 - 🌱 I’m currently learning **Web Developer** at Codeable
 - ⚡ Fun fact: 🏊 ⚽ 🍕
 
