@@ -19,15 +19,8 @@
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"></code>
 <code><img height="45" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png"></code>
 
-
-
-
-
-
-
-
-### 🌱 My latest projects
-- [Whatsapp-clone](https://whatsapp-erizoma.web.app/) -  . <img style="width:20px;height:20px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670051.png?token=exp=1635785455~hmac=eb2d272c260367b29b38b9d9fe0e1c09"/>
+### 🌱 Latest projects
+- [ErizoMA/whatsapp-erizoma](https://github.com/ErizoMA/whatsapp-erizoma) - Visit it here! => [Whatsapp-clone](https://whatsapp-erizoma.web.app/).<img style="width:20px;height:20px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670051.png?token=exp=1635785455~hmac=eb2d272c260367b29b38b9d9fe0e1c09"/>
 
 
 
