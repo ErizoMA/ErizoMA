@@ -19,9 +19,9 @@
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"></code>
 <code><img height="45" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png"></code>
 
-### 🌱 Latest projects
+<!-- ### 🌱 Latest projects
 - [ErizoMA/whatsapp-erizoma](https://github.com/ErizoMA/whatsapp-erizoma) - Visit it here! => [Whatsapp-clone](https://whatsapp-erizoma.web.app/).
-
+ -->
 
 
 ### 📫 How to reach me:
