@@ -19,7 +19,7 @@
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"></code>
 <code><img height="45" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png"></code>
 
-### 👾  FrontEnd Projects
+<!-- ### 👾  FrontEnd Projects
 Pokemon
 - Repository : [ErizoMA/151-pokemons](https://github.com/ErizoMA/151-pokemons)
 - Website : [151-pokemons](https://151-pokemons.netlify.app/).
@@ -28,7 +28,7 @@ Pokemon
 ### 🔨  FullStack Projects
 Whatsapp clone
 - Repository : [ErizoMA/whatsapp-erizoma](https://github.com/ErizoMA/whatsapp-erizoma)
-
+ -->
 
 ### 📫 How to reach me:
 
