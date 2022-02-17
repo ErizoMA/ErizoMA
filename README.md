@@ -23,6 +23,7 @@
 
 ### Rick & Morty <img height="30" src="https://cdn.icon-icons.com/icons2/1390/PNG/512/rick_96214.png"> <img height="30" src="https://cdn.icon-icons.com/icons2/1389/PNG/512/morty_96137.png">
 - Website : [Rick & Morty](https://rick-morty-vue3.netlify.app/) <img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png">
+- Repository : [ErizoMA/Rick-Morty](https://github.com/ErizoMA/Rick-Morty)
 ### Pokemon <img height="30" src="https://cdn.icon-icons.com/icons2/851/PNG/512/pikachu_icon-icons.com_67535.png">
 - Website : [151-pokemons](https://151-pokemons.netlify.app/) <img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
 - Repository : [ErizoMA/151-pokemons](https://github.com/ErizoMA/151-pokemons)
