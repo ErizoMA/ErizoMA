@@ -35,8 +35,3 @@
 
 - Email: [marcerican@gmail.com](mailto:marcerican@gmail.com)
 - LinkedIn: [@emarceloa](https://www.linkedin.com/in/emarceloa/)
-
-## &#x1f4c8; GitHub Stats
-
-<p align="center"> <img style={width=20px,height=20px} src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErizoMA&layout=compact" alt="erizoma" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ErizoMA&count_private=trues&show_icons=true&hide=contribs,prs" alt="erizoma" />
