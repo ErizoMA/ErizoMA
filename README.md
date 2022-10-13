@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ErizoMA.ErizoMA)
 # Hello, I'm Erick Marcelo 👋
 - 🔭 Bachelor's degree in **Electronic Engineering** at [National University of Engineering](https://www.uni.edu.pe/)
-- 🌱 I’m a **Full-Stack Web Developer** graduated from [Codeable](https://www.codeable.la/)
+- 🌱 I’m a **Frontend | Backend | Fullstack  Developer** graduated from [Codeable](https://www.codeable.la/)
 - ⚡ Fun fact: 🏊 ⚽ 🍕
 
 # 🛠️ Skills
