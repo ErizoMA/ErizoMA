@@ -27,11 +27,11 @@
 <code><img height="45" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/insomnia_94603.png"></code>
 -->
 # 👾  Personal Projects  
-### *Real Time Chat* (Frontend Project) <img height="30" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png">
+### *Real Time Chat* (Fullstack Project) <img height="30" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png">
 - Website : [App Chat](https://app-chat-develop.up.railway.app/) <img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"><img height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/socket_io_logo_icon_144874.png">
 - Repository : [ErizoMA/app-chat](https://github.com/ErizoMA/app-chat) 
 
-### *Rick & Morty* (FullStack Project) <img height="30" src="https://cdn.icon-icons.com/icons2/1390/PNG/512/rick_96214.png"> <img height="30" src="https://cdn.icon-icons.com/icons2/1389/PNG/512/morty_96137.png">
+### *Rick & Morty* (Frontend Project) <img height="30" src="https://cdn.icon-icons.com/icons2/1390/PNG/512/rick_96214.png"> <img height="30" src="https://cdn.icon-icons.com/icons2/1389/PNG/512/morty_96137.png">
 - Website : [Rick & Morty](https://rick-morty-vue3.netlify.app/) <img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png">
 - Repository : [ErizoMA/Rick-Morty](https://github.com/ErizoMA/Rick-Morty)
 
